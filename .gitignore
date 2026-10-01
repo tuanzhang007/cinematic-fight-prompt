@@ -1,0 +1,15 @@
+# Local media, extracted frames, logs and personal documents
+*.mp4
+*.mov
+*.avi
+*.mkv
+*_frames*/
+fight_frames/
+duesi_frames/
+references/douyin-fight-study/frames-*/
+logs/
+profile.html
+陆双彦-平台运营-简历.pdf
+*运营知识库*.md
+.analysis_deps/
+.codex_tmp_py/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文高燃打斗提示词"
+  short_description: "生成华丽大招、冲击帧和连续战斗分镜"
+  default_prompt: "使用 cinematic-fight-prompt，帮我设计一段有明确动作链、华丽特效和冲击帧的打斗。"
